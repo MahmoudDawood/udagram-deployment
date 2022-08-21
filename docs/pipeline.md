@@ -7,11 +7,11 @@
 
 ## Steps after pushing changes to main branch
 1. Install frontend dependencies
-1. Install backend dependencies
-2. Build frontend
-2. Build backend
+2. Install backend dependencies
+3. Build frontend
+4. Build backend
 5. Test frontend
-5. Test backend
+6. Test backend
 7. Deploy frontend
-7. Deploy backend
+8. Deploy backend
 
