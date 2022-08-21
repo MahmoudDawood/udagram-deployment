@@ -1,4 +1,4 @@
-# Dependencies used in this app
+# Dependencies used in this application
 
 ## Backend Dependencies
 ```
