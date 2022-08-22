@@ -26,4 +26,5 @@
 <br>
 
 ![circleci build](../diagrams/ci.env.PNG)
+<br>
 CircleCi environment variables.
