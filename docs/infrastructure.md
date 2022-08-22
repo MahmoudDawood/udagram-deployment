@@ -44,12 +44,14 @@ Created instance.
 <br>
 
 ![eb instance](../diagrams/eb-env.PNG)
+<br>
 Elastic beanstalk created environment variables.
 <br>
 
 ![eb instance](../diagrams/eb-endpoint.PNG)
 ![eb instance](../diagrams/eb-endpoint2.PNG)
+<br>
 Working Backend deployed [here](http://udagram-api-dev.eba-2tikbxrx.us-east-1.elasticbeanstalk.com/)
 <br>
 
-## Hosted Udagram Application deployed [here](http://udagram-app-bucket.s3-website-us-east-1.amazonaws.com) 
+Hosted Udagram Application deployed [here.](http://udagram-app-bucket.s3-website-us-east-1.amazonaws.com) 
